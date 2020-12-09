@@ -10,3 +10,5 @@
 
 ###### Find me around the web 
 💬 [Google Scholar Profile](https://scholar.google.com.br/citations?user=kAfMCzkAAAAJ)
+
+💬 [Academic Tree](https://academictree.org/etree/tree.php?pid=730975&pnodecount=5&cnodecount=1&fontsize=1)
