@@ -1,8 +1,8 @@
 <img src="rodrigo.jpg" width="200px" align="right">
 
-### Hi, I'm R.Pissardini 
+### Hi, I amm R.Pissardini 
 
-<p align="justify"> I'm a Computer Scientist (since 1997) and M.Sc. in Transportation Engineering. My main interests include GNSS (GPS, Glonass and multisensor systems), autonomous vehicles (decision-making, mapping) and artificial intelligence applied to transportation. I am currently a member of the Laboratory of Topography and Geodesy of the Polytechnic School of the University of São Paulo.</div>
+<p align="justify"> I am a Computer Scientist (since 1997) and M.Sc. in Transportation Engineering. My main interests include GNSS (GPS, Glonass and multisensor systems), autonomous vehicles (decision-making, mapping) and artificial intelligence applied to transportation. I am currently a member of the Laboratory of Topography and Geodesy of the Polytechnic School of the University of São Paulo.</div>
 
 :electron: **Academic experience:** Data Science, Graph Theory, Statistical analysis, Navigation and Positioning by Satellites, Intelligent Transportation Systems.
 
